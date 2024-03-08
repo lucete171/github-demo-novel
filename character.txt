@@ -5,3 +5,7 @@ Age: 26
 [Alice]
 Sex: W
 Age: 24
+
+[Karina]
+Sex: W
+Age: 25
