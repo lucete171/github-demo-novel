@@ -9,3 +9,7 @@ Age: 24
 [Karina]
 Sex: W
 Age: 25
+
+[Tabi]
+Sex: W
+Age: 18
