@@ -1,3 +1,7 @@
+[Teddy]
+Sex: M
+Age: 26
+
 [Alice]
 Sex: W
 Age: 24
